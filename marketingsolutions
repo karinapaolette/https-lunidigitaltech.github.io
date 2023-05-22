@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Luni Digital Tech</title>
+  <meta name="description" content="Luni Digital Tech: Marketing, Growth Marketing, Manejo de Redes Sociales, Diseño de Artes y Tarjetas, Servicios Técnicos de Computadoras PC y Laptops, Impresoras e Instalación de Cámaras de Seguridad." />
+  <link rel="canonical" href="https://lunidigitaltech.com/" />
+  <meta property="og:locale" content="es_ES" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Luni Digital Tech" />
+  <meta property="og:description" content="Luni Digital Tech: Marketing, Growth Marketing, Manejo de Redes Sociales, Diseño de Artes y Tarjetas, Servicios Técnicos de Computadoras PC y Laptops, Impresoras e Instalación de Cámaras de Seguridad." />
+  <meta property="og:url" content="https://lunidigitaltech.com/" />
+  <meta property="og:site_name" content="Luni Digital Tech" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@lunidigitaltech" />
+  <meta name="twitter:title" content="Luni Digital Tech" />
+  <meta name="twitter:description" content="Luni Digital Tech: Marketing, Growth Marketing, Manejo de Redes Sociales, Diseño de Artes y Tarjetas, Servicios Técnicos de Computadoras PC y Laptops, Impresoras e Instalación de Cámaras de Seguridad." />
+  <meta name="twitter:image" content="https://lunidigitaltech.com/images/logo.png" />
+</head>
+<body>
+  <header>
+    <h1>Luni Digital Tech</h1>
+    <nav>
+      <ul>
+        <li><a href="#">Inicio</a></li>
+        <li><a href="#">Servicios</a></li>
+        <li><a href="#">Acerca de</a></li>
+        <li><a href="#">Contacto</a></li>
+        <li><a href="mailto:info@lunidigitaltech.com">info@lunidigitaltech.com</a></li>
+        <li><a href="mailto:karinapaolette@lunidigitaltech.com">karinapaolette@lunidigitaltech.com</a></li>
+        <li><a href="https://wa.me/32031923">WhatsApp: +32031923</a></li>
+        <li><a href="https://t.me/32031923">Telegram: +32031923</a></li>
+        <li><a href="https://wa.me/97941491">WhatsApp: +97941491</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Bienvenido a Luni Digital Tech</h2>
+      <p>Somos una empresa especializada en soluciones digitales innovadoras.</p>
+      <p>Ofrecemos servicios de marketing, growth marketing, manejo de redes sociales, diseño de artes y tarjetas, servicios técnicos de computadoras PC y laptops, impresoras e instalación de cámaras de seguridad.</p>
+    </section>
+
+    <section>
+      <h2>Iniciar sesión</h2>
+      <form>
+        <label for="username">Nombre de usuario:</label>
+        <input type="text" id="username" name="username">
+        <label for="password">Contraseña:</label>
+        <input type="password" id="password" name="password">
+        <input type="submit" value="Iniciar sesión">
+      </form>
+    </section>
+
+    <section>
+      <h2>Suscríbete a nuestros boletines</h2>
+      <form>
+        <label for="email">Correo electrónico:</label>
+        <input type="email" id="email" name="email" placeholder="Ingresa tu correo electrónico">
+        <button type="submit">Suscribirse</button>
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2023 Luni Digital Tech. Todos los derechos reservados.</p>
+  </footer>
+</body>
+</html>
