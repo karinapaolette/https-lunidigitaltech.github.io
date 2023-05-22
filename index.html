@@ -73,6 +73,22 @@
       cursor: pointer;
     }
 
+    .social-login {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-top: 10px;
+    }
+
+    .social-login button {
+      background-color: #3b5998;
+      margin-right: 10px;
+    }
+
+    .social-login button:last-child {
+      background-color: #db4a39;
+    }
+
     footer {
       background-color: green;
       padding: 10px;
@@ -113,6 +129,21 @@
         <label for="password">Contraseña:</label>
         <input type="password" id="password" name="password">
         <input type="submit" value="Iniciar sesión">
+      </form>
+      <div class="social-login">
+        <button type="button">Iniciar sesión con Google</button>
+        <button type="button">Iniciar sesión con Facebook</button>
+      </div>
+    </section>
+
+    <section>
+      <h2>Regístrate</h2>
+      <form>
+        <label for="email">Correo electrónico:</label>
+        <input type="email" id="email" name="email" placeholder="Ingresa tu correo electrónico">
+        <label for="password">Contraseña:</label>
+        <input type="password" id="password" name="password" placeholder="Ingresa tu contraseña">
+        <input type="submit" value="Regístrate">
       </form>
     </section>
 
